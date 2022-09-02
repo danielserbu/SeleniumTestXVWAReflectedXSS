@@ -1,0 +1,7 @@
+<script>alert(1283);</script>
+<ScRipT>alert("XSS");</ScRipT>
+<script>alert(1263)</script>
+�><script>alert(�XkSS�)</script>
+<script>alert(/XSxS/)</script>
+</script><script>alert(132)</script>
+<ScRiPt>alert(144)</sCriPt>
