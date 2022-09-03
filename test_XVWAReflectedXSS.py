@@ -4,7 +4,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 webpage = "http://localhost/xvwa/vulnerabilities/reflected_xss"
-fileToCheck = "/etc/passwd"
 
 xsspayloads = open('xsspayloads-example', 'r')
 payloads = xsspayloads.readlines()
